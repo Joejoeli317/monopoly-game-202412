@@ -9,9 +9,12 @@ Team members include **ChienYi Lin (NTU Economics)**, **Hsin-Yun Li (NTU Interna
 ---
 
 ## Game Overview
+
 This is a multiplayer game played on a circular map with a fixed number of rounds. Each round, players roll a character-specific die and move accordingly.  
 The objective is to collect **three super stars** by reaching their location and paying enough coins. Strategic use of items, movement, and interaction is key to winning!  
+
 ---
+
 ## How to Play
 
 ### Character Selection
