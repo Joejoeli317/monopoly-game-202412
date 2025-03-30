@@ -1,7 +1,7 @@
 # Monopoly Game in C++
 
 A C++ implementation of a terminal-based multiplayer Monopoly-style game, inspired by *Mario Party*, built using Object-Oriented Programming principles.  
-Developed as a group project for the **Programming Design (113-1)** course at NTUIM(National Taiwan University, Dept. of Information Management), which I've taken in year 2 in NTU. 
+Developed as a group project for the **Programming Design (113-1)** course at NTUIM(National Taiwan University, Dept. of Information Management), which I've taken in year 2 in NTU.  
 Team members include **ChienYi Lin (NTU Economics)**, **Hsin-Yun Li (NTU International Business)**, and **Yu-Ting Chou (NTU Political Science)**, led by ChienYi.
 
 ![Demo Screenshot](docs/demo_screenshot_group20.png)
