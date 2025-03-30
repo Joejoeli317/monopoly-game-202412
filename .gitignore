@@ -1,0 +1,15 @@
+# 編譯產物
+*.o
+*.out
+*.gch
+*.exe
+
+# macOS 系統垃圾檔
+.DS_Store
+
+# VS Code 個人設定
+.vscode/
+*.swp
+
+# Xcode or build 相關（以防萬一）
+build/
